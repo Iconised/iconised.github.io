@@ -1,0 +1,1 @@
+import{c as e,n as t,s as n}from"./DJN_kuT8.js";var r=n().int().nonnegative().safe().nullable(),i=e({memberNumber:r,founder:t(),founderNumber:r}).strict(),a=e=>`#`+e.toLocaleString(`en-GB`);export{i as n,a as t};

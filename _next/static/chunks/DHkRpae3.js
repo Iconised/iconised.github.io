@@ -1,0 +1,1 @@
+import{t as e}from"./CbCaA2c5.js";import"./CouDcG_4.js";var t=null;function n(){if(e())return;let n=document.documentElement;n.style.setProperty(`--iv-turn-time`,`5s`),n.setAttribute(`data-theme-turn`,``),t&&clearTimeout(t),t=setTimeout(()=>n.removeAttribute(`data-theme-turn`),5250)}export{n as t};

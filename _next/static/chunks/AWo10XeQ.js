@@ -1,0 +1,1 @@
+var e=12e6,t=/^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/;function n(e){let n=e.startsWith(`/api/media/`)?e.slice(11):``;return t.test(n)?n:null}export{e as n,n as r,t};

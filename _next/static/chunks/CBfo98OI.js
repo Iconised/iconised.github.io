@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{t}from"./ChFXP373.js";var n=e(),r=t(`plus`,()=>(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(`path`,{d:`M5 12h14`}),(0,n.jsx)(`path`,{d:`M12 5v14`})]}),{root:{variants:{normal:{rotate:0},animate:{rotate:180}},transition:{type:`spring`,stiffness:100,damping:15}}});export{r as t};

@@ -1,0 +1,1 @@
+var e=`support@invited.you`,t=`mailto:support@invited.you`,n=`privacy@invited.you`,r=e=>/^https?:/.test(e)?{target:`_blank`,rel:`noopener noreferrer`}:{};export{r as i,e as n,t as r,n as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./hePW80VL.js";import{a as t}from"./ac5jqoFP.js";import{t as n}from"./DHkRpae3.js";import{a as r}from"./CiV2NS0c.js";var i=e(t(),1);function a(){return r().chosen===`dark`?`black`:`grey`}function o(e){let t=(0,i.useRef)(e);(0,i.useLayoutEffect)(()=>{t.current!==e&&(t.current=e,n())},[e])}export{o as n,a as t};

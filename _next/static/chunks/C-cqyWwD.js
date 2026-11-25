@@ -1,0 +1,1 @@
+import{r as e}from"./hePW80VL.js";import{a as t}from"./ac5jqoFP.js";var n=e(t(),1),r=new Map,i=new Set;function a(e,t){if((r.get(e)??null)!==t){r.set(e,t);for(let e of i)e()}}var o=e=>(i.add(e),()=>{i.delete(e)});function s(e){return(0,n.useSyncExternalStore)(o,()=>r.get(e)??null,()=>null)}export{s as n,a as t};

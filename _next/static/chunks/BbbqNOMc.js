@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{t}from"./ChFXP373.js";import{O as n}from"./DONrYCTl.js";var r=e(),i=t(`smartphone`,()=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(`rect`,{width:`14`,height:`20`,x:`5`,y:`2`,rx:`2`,ry:`2`}),(0,r.jsx)(`path`,{d:`M12 18h.01`})]}),{root:{variants:n}});export{i as t};

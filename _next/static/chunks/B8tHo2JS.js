@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{i as t,r as n}from"./CiV2NS0c.js";var r=e();function i({children:e,editor:i=!1,launch:a=!1}){let o=t(),s=n();return(0,r.jsx)(`div`,{className:`platform-shell${i?` platform-editor`:``}${a?` launch-shell`:``}`,"data-theme":o,"data-sidebar":s?`collapsed`:`expanded`,children:e})}export{i as t};

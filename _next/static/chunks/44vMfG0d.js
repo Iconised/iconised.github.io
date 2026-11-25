@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{n as t,t as n}from"./ChFXP373.js";var r=e(),i={normal:{opacity:1,pathLength:1},animate:{opacity:[0,1],pathLength:[0,1]}},a=n(`x`,({controls:e})=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t.path,{animate:e,d:`M18 6 6 18`,variants:i}),(0,r.jsx)(t.path,{animate:e,d:`m6 6 12 12`,transition:{delay:.2},variants:i})]}));export{a as t};

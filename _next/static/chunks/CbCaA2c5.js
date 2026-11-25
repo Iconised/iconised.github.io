@@ -1,0 +1,1 @@
+import{r as e}from"./hePW80VL.js";import{a as t}from"./ac5jqoFP.js";var n=e(t(),1);function r(){return matchMedia(`(prefers-reduced-motion: reduce)`)}function i(){return r().matches}function a(e){let t=r();return t.addEventListener(`change`,e),()=>t.removeEventListener(`change`,e)}function o(){return(0,n.useSyncExternalStore)(a,i,()=>!0)}export{o as n,i as t};

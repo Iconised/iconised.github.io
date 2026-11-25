@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./hePW80VL.js";import{a as n,i as r}from"./ac5jqoFP.js";var i=e({default:()=>l,useFirstTheme:()=>c}),a=t(n(),1),o=r(),s=(0,a.createContext)(null),c=()=>(0,a.useContext)(s);function l({first:e,children:t}){return(0,o.jsx)(s,{value:e,children:t})}export{i as t};

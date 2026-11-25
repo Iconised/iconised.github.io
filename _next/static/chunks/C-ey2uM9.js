@@ -1,0 +1,1 @@
+import{n as e}from"./hePW80VL.js";import{i as t}from"./ac5jqoFP.js";import{n,t as r}from"./ChFXP373.js";var i=e({ChevronRight:()=>s}),a=t(),o={times:[0,.4,1],duration:.5},s=r(`chevron-right`,({controls:e})=>(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(n.path,{animate:e,d:`m9 18 6-6-6-6`,transition:o,variants:{normal:{x:0},animate:{x:[0,2,0]}}})}));export{i as n,s as t};

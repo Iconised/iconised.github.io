@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{n as t,t as n}from"./ChFXP373.js";var r=e(),i={times:[0,.4,1],duration:.5},a=n(`chevron-left`,({controls:e})=>(0,r.jsx)(r.Fragment,{children:(0,r.jsx)(t.path,{animate:e,d:`m15 18-6-6 6-6`,transition:i,variants:{normal:{x:0},animate:{x:[0,-2,0]}}})}));export{a as t};

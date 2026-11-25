@@ -1,0 +1,1 @@
+var e=`invited-workspace-theme`,t=`invited-workspace-auto`;function n(e,t=`light`){return/^\/app(\/|$)/.test(e??``)?t:`light`}export{e as n,n as r,t};

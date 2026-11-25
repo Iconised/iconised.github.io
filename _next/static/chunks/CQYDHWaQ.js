@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{t}from"./B8tHo2JS.js";var n=e();function r({children:e}){return(0,n.jsxs)(t,{launch:!0,children:[(0,n.jsx)(`a`,{className:`shell-skip`,href:`#workspace-content`,children:`Skip to content`}),!1,(0,n.jsx)(`div`,{id:`workspace-content`,className:`shell-content`,tabIndex:-1,children:e})]})}export{r as default};

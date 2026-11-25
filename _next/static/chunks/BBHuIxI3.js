@@ -1,0 +1,1 @@
+import{i as e}from"./ac5jqoFP.js";import{t}from"./ChFXP373.js";var n=e(),r=t(`search`,()=>(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(`circle`,{cx:`11`,cy:`11`,r:`8`}),(0,n.jsx)(`path`,{d:`m21 21-4.3-4.3`})]}),{root:{variants:{normal:{x:0,y:0},animate:{x:[0,0,-3,0],y:[0,-4,0,0]}},transition:{duration:1,bounce:.3}}});export{r as t};
