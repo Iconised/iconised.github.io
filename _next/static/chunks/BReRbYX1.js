@@ -1,4 +1,4 @@
-import{d as e}from"./CQ5ApvO_.js";import{k as t}from"./Ceg0oLf2.js";import{jt as n,k as r,q as i}from"./wDoPzj63.js";import{u as a}from"./26xdbPUb.js";import{C as o,T as s,h as c,i as l,l as u,n as d,s as f,w as p}from"./D4fKythR.js";var m={delay:.25,seconds:1.8},h={delay:.2,seconds:1.3},g=`const vec3 MARK_BOX = vec3(${e.founder.box.map(e=>e.toFixed(3)).join(`, `)});
+import{d as e}from"./CQ5ApvO_.js";import{k as t}from"./Ceg0oLf2.js";import{jt as n,k as r,q as i}from"./wDoPzj63.js";import{u as a}from"./26xdbPUb.js";import{C as o,T as s,h as c,i as l,l as u,n as d,s as f,w as p}from"./d6zlMmBg.js";var m={delay:.25,seconds:1.8},h={delay:.2,seconds:1.3},g=`const vec3 MARK_BOX = vec3(${e.founder.box.map(e=>e.toFixed(3)).join(`, `)});
 float cutOrder(vec2 xy, float span) {
   vec2 at = vec2((xy.x / span + 0.5) * MARK_BOX.z + MARK_BOX.x, (0.5 - xy.y / span) * MARK_BOX.z + MARK_BOX.y);
   vec2 orb = at - vec2(6.0, 9.473), piece = at - vec2(13.085, 2.386);

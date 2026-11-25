@@ -1,0 +1,1 @@
+import{t as e}from"./BReRbYX1.js";var t=t=>e(t,`gold`);export{t as card};

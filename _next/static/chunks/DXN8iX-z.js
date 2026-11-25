@@ -1,1 +1,0 @@
-import{t as e}from"./fLb-mq8t.js";var t=t=>e(t,`glass`);export{t as card};
